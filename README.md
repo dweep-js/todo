@@ -12,10 +12,7 @@ A lightweight, minimal Todo application built to master fundamental concepts, st
 
 ## 🛠️ Built With
 
-* ![Rust Badge](https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust&logoColor=white) **Rust** *(If this includes a desktop framework like Tauri or a WASM-frontend)*
-* ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript**
-* ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) **HTML5**
-* ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) **CSS3**
+* ![Rust Badge](https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust&logoColor=white) **Rust** *(If this includes a desktop framework like Tauri or a WASM-frontend)*3**
 
 ## 📦 Getting Started
 
